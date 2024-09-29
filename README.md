@@ -1,4 +1,4 @@
-# FCA-Primer semestre, Diseño de algoritmos
+Diseño de algoritmos
 Repositorio de las tareas de la materia "Diseño de algoritmos" del primer semestre de la carrera de informática.
 
 Unidad 3
