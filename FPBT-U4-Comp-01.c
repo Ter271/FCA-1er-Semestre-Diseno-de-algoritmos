@@ -1,16 +1,16 @@
 /******************************************************************************
 Nombre del programa: FizzBuzz
-Descripción: Programa que muestra del 1 a 100, sustituyendo lo siguiente:
-  - Múltiplos de 3 por la palabra "fizz".
-  - Múltiplos de 5 por la palabra "buzz".
-  - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+DescripciÃ³n: Programa que muestra del 1 a 100, sustituyendo lo siguiente:
+  - MÃºltiplos de 3 por la palabra "fizz".
+  - MÃºltiplos de 5 por la palabra "buzz".
+  - MÃºltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 Variables: 
     i - Contador de ciclo for
 	multiplo3 - Residuo de la division con 3 como divisor
     multiplo5 - Residuo de la division con 5 como divisor
 Constantes: N/A
-Fecha de creación:11/octubre/2024
-Autora: Farfán Brenda
+Fecha de creaciÃ³n:11/octubre/2024
+Autora: FarfÃ¡n Brenda
 
 *******************************************************************************/
 
