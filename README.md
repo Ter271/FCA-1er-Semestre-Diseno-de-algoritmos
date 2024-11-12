@@ -23,4 +23,5 @@ Archivo: FPBT-U4-Comp-01.cpp
 ### Complementaria 2
 
 Programa que muestra a partir de un número ingresado por el usuario los resultados generados a partir del 1 hasta el valor ingresado por el usuario en la sucesion 1- (1/(n+1)^2).
+
 Archivo: FPBT-U5-Comp-02.cpp
