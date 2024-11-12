@@ -17,3 +17,10 @@ Archivo: FPBT-U3-Comp-02.cpp
 Después de haber dado lectura a la unidad, desarrolla un programa en lenguaje C de forma libre y en un documento de Word anexa capturas de pantalla en dónde vayas describiendo el proceso de compilación, ejecución, verificación y depuración de un programa.
 
 Archivo: FPBT-U4-Comp-01.cpp
+
+##  Unidad 5
+
+### Complementaria 2
+
+Programa que muestra a partir de un número ingresado por el usuario los resultados generados a partir del 1 hasta el valor ingresado por el usuario en la sucesion 1- (1/(n+1)^2).
+Archivo: FPBT-U5-Comp-02.cpp
