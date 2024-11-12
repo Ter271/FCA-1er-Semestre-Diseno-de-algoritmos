@@ -1,7 +1,7 @@
 /******************************************************************************
-Nombre del programa: Sucesi髇 num閞ica
-Descripci髇: Programa que muestra a partir de un n鷐ero ingresado por el 
-usuario los n鷐eros generados a partir del 1 hasta el valor ingresado en l
+Nombre del programa: Sucesi贸n num茅rica
+Descripci贸n: Programa que muestra a partir de un n煤mero ingresado por el 
+usuario los n煤meros generados a partir del 1 hasta el valor ingresado en l
 a sucesion 1- (1/(n+1)^2)
 Variables: 
     i- Contador de ciclo for
@@ -9,11 +9,11 @@ Variables:
 	numerador- Numerador del resultado final
 	num- Resultado de: (numero ingresado por el usuario) + 1
 	n_cuadrada- Resultado de num al cuadrado
-	F- Formula de la sucesi髇
+	F- Formula de la sucesi贸n
 Constantes: 
-    n- Numero ingresado por el usuario hasta el cual llegara la sucesi髇.
-Fecha de creaci髇:10/noviembre/2024
-Autora: Farf醤 Brenda
+    n- Numero ingresado por el usuario hasta el cual llegara la sucesi贸n.
+Fecha de creaci贸n:10/noviembre/2024
+Autora: Farf谩n Brenda
 
 *******************************************************************************/
 
@@ -26,7 +26,7 @@ int main()
 	float n, num, n_cuadrada, F;
 
 	//Ingresar numero
-	printf("ienvenido!, este programa obtiene los resultados de la sucesion 1- (1/(n+1)^2).\n");
+	printf("隆Bienvenido!, este programa obtiene los resultados de la sucesion 1- (1/(n+1)^2).\n");
 	printf("Ingrese el numero hasta el cual llegaran los resultados (debe ser entero):\n");
 	scanf("%f",&n);
 	//Estructura iterativa
