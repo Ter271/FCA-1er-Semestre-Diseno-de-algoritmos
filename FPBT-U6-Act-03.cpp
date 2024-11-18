@@ -1,16 +1,16 @@
 /*
 Nombre del programa: Signos zodiacales
-DescripciÛn: A partir de la fecha de nacimiento, el usuario obtiene su signo zodiacal.
-Variables: dia_nac -DÌa de nacimiento del usuario.
+Descripci√≥n: A partir de la fecha de nacimiento, el usuario obtiene su signo zodiacal.
+Variables: dia_nac -D√≠a de nacimiento del usuario.
            mes_nac -Mes de nacimiento del usuario.
 Constantes: aries1 -Inicio de la fecha de aries.
 			aries2 -Fin de la fecha de aries.
             tauro1 -Inicio de la fecha de tauro.
 			tauro2 -Fin de la fecha de tauro.			
-			geminis1 -Inicio de la fecha de gÈminis.
-			geminis2 -Fin de la fecha de gÈminis.
-            cancer1 -Inicio de la fecha de c·ncer.
-			cancer2 -Fin de la fecha de c·ncer.
+			geminis1 -Inicio de la fecha de g√©minis.
+			geminis2 -Fin de la fecha de g√©minis.
+            cancer1 -Inicio de la fecha de c√°ncer.
+			cancer2 -Fin de la fecha de c√°ncer.
 			leo1 -Inicio de la fecha de leo.
 			leo2 -Fin de la fecha de leo.
             virgo1 -Inicio de la fecha de virgo.
@@ -28,8 +28,8 @@ Constantes: aries1 -Inicio de la fecha de aries.
             picis1 -Inicio de la fecha de picis.
 			picis2 -Fin de la fecha de picis.						
 					
-Fecha de creaciÛn: 17/Noviembre/2024
-Autor: Farf·n Brenda
+Fecha de creaci√≥n: 17/Noviembre/2024
+Autor: Farf√°n Brenda
 */
 
 //Se agrega libreria
@@ -45,12 +45,12 @@ int main()
 	setlocale(LC_ALL,"spanish");
 	
 	//Bienvenida al usuario
-    printf("°Descubre tu signo zodiacal!, solo ingresa tu fecha de nacimiento.\n\n");
+    printf("¬°Descubre tu signo zodiacal!, solo ingresa tu fecha de nacimiento.\n\n");
     
     //Bucle de condiciones de mes y dias aceptables para la entrada de datos    
     while(dia_nac< 1 || dia_nac> 31)
     {
-    	printf("Ingresa tu dÌa de nacimiento (en formato dd):");
+    	printf("Ingresa tu d√≠a de nacimiento (en formato dd):");
     	scanf("%d",&dia_nac);
     }
 	printf("\n");
@@ -104,9 +104,9 @@ int main()
 	else if ( tauro1 || tauro2 )
 	    printf("\nEres tauro");
 	else if ( geminis1 || geminis2 )
-	    printf("\nEres gÈminis");
+	    printf("\nEres g√©minis");
 	else if ( cancer1 || cancer2 )
-	    printf("\nEres c·ncer");
+	    printf("\nEres c√°ncer");
 	else if ( leo1 || leo2 )
 	    printf("\nEres leo");	 
 	else if ( virgo1 || virgo2 )
