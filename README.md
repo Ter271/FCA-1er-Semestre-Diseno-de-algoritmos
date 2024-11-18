@@ -8,7 +8,7 @@ Repositorio de las tareas de la materia "Diseño de algoritmos" del primer semes
 
 Elabora un programa en lenguaje C en donde realices el cálculo del volumen de un cilindro. El programa deberá de pedir los datos al usuario y deberá de almacenarlos en variables locales, una vez realizado el cálculo del área empleando las variables deberá mostrar el resultado al usuario en pantalla.
 
-Archivo: FPBT-U3-Comp-02.cpp
+Archivo: FPBT-U3-Comp-02.c
 
 ##  Unidad 4
 
@@ -16,7 +16,7 @@ Archivo: FPBT-U3-Comp-02.cpp
 
 Después de haber dado lectura a la unidad, desarrolla un programa en lenguaje C de forma libre y en un documento de Word anexa capturas de pantalla en dónde vayas describiendo el proceso de compilación, ejecución, verificación y depuración de un programa.
 
-Archivo: FPBT-U4-Comp-01.cpp
+Archivo: FPBT-U4-Comp-01.c
 
 ##  Unidad 5
 
@@ -24,4 +24,12 @@ Archivo: FPBT-U4-Comp-01.cpp
 
 Programa que muestra a partir de un número ingresado por el usuario los resultados generados a partir del 1 hasta el valor indicado en la sucesion 1- (1/(n+1)^2).
 
-Archivo: FPBT-U5-Comp-02.cpp
+Archivo: FPBT-U5-Comp-02.c
+
+##  Unidad 6
+
+### Actividad 2
+
+Programa que a partir de la fecha de nacimiento indica el signo zodiacal correspondiente.
+
+Archivo: FPBT-U6-Act-02.c
