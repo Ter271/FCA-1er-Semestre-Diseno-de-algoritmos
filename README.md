@@ -38,3 +38,8 @@ Archivo: FPBT-U6-Act-02.c
 El programa solicita al usuario 3 números, los cuales deberán ser mayores de 3 y menores de 15. El programa regresa los números ordenados de mayor a menor e  indica un error si el usuario ingresa números fuera de los parámetros establecidos. 
 
 Archivo: FPBT-U6-Act-03.c
+
+### Complementaria 1
+Programa que permite a un cliente seleccionar 4 paquetes de comida rápida de su elección. El programa muestra las opciones al usuario el cual podrá seleccionar el que desee de dicho menú. Se emplea la estructura Switch para realizarlo.
+
+Archivo: FPBT-U6-Comp-01.cpp
