@@ -33,3 +33,8 @@ Archivo: FPBT-U5-Comp-02.c
 Programa que a partir de la fecha de nacimiento indica el signo zodiacal correspondiente.
 
 Archivo: FPBT-U6-Act-02.c
+
+### Actividad 3
+El programa solicita al usuario 3 números, los cuales deberán ser mayores de 3 y menores de 15. El programa regresa los números ordenados de mayor a menor e  indica un error si el usuario ingresa números fuera de los parámetros establecidos. 
+
+Archivo: FPBT-U6-Act-03.c
