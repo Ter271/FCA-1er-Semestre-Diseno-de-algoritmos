@@ -43,3 +43,10 @@ Archivo: FPBT-U6-Act-03.c
 Programa que permite a un cliente seleccionar 4 paquetes de comida rápida de su elección. El programa muestra las opciones al usuario el cual podrá seleccionar el que desee de dicho menú. Se emplea la estructura Switch para realizarlo.
 
 Archivo: FPBT-U6-Comp-01.cpp
+
+### Complementaria 2
+El programa permite al usuario ingresar un número “n” entero positivo, a partir de dicho número el programa deberá de ir mostrando la suma de los primeros números impares/pares acorde a dicha cifra.
+
+Archivo: FPBT-U6-Comp-02.cpp
+
+
